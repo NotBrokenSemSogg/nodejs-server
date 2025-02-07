@@ -1,0 +1,19 @@
+{
+  "name": "server_node",
+  "version": "1.0.0",
+  "description": "host my retarded website for FREEEEEEEEE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mime": "^4.0.6",
+    "path": "^0.12.7"
+  },
+  "type": "module"
+}
